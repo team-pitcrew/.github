@@ -2,6 +2,8 @@
 
 > 가족이 차 안에서 나눈 대화를 차가 받아 적어, 아이의 부탁은 내비 경유지로, 장소별 할 일은 도착했을 때 알려 준다.
 
+<p align="center"><img width="640" src="https://raw.githubusercontent.com/team-pitcrew/.github/main/profile/pitcrew.jpg" alt="차 안에 함께 탄 PITCREW 캐릭터 넷" /></p>
+
 ## PITCREW
 
 <table align="center">
