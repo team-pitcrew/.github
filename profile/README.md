@@ -1,15 +1,28 @@
-# PITCREW
+# 현대자동차그룹 차량용 앱 개발 공모전 · PITCREW
 
-**가치타**를 만드는 팀입니다. 가족이 차 안에서 나눈 대화를 차가 받아 적어, 아이의 부탁은 내비 경유지로, 장소별 할 일은 도착했을 때 알려 주는 Pleos 차량 앱입니다. 현대자동차그룹 차량용 앱 개발 공모전 출품작입니다.
+> 가족이 차 안에서 나눈 대화를 차가 받아 적어, 아이의 부탁은 내비 경유지로, 장소별 할 일은 도착했을 때 알려 준다.
 
-- 저장소: [team-pitcrew/gachita](https://github.com/team-pitcrew/gachita)
-- 서비스: [gachita.mangowhois.ai](https://gachita.mangowhois.ai)
+## PITCREW
 
-## 팀원
+<table align="center">
+  <tr>
+    <td align="center"><img width="100" src="https://github.com/mangowhoiscloud.png" /></td>
+    <td align="center"><img width="100" src="https://github.com/acrafti2020-lab.png" /></td>
+    <td align="center"><img width="100" src="https://github.com/jiminsss02.png" /></td>
+    <td align="center"><img width="100" src="https://github.com/yoodison.png" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>류지환</b><br><sub><a href="https://github.com/mangowhoiscloud">@mangowhoiscloud</a></sub><br><sub>차량 앱 · 웹 · 인프라</sub></td>
+    <td align="center"><b>김상현</b><br><sub><a href="https://github.com/acrafti2020-lab">@acrafti2020-lab</a></sub><br><sub>화면 명세 · 백엔드 API</sub></td>
+    <td align="center"><b>송지민</b><br><sub><a href="https://github.com/jiminsss02">@jiminsss02</a></sub><br><sub>기획</sub></td>
+    <td align="center"><b>유민준</b><br><sub><a href="https://github.com/yoodison">@yoodison</a></sub><br><sub>디자인</sub></td>
+  </tr>
+</table>
 
-| | 계정 | 맡은 일 |
-|---|---|---|
-| <img src="https://github.com/mangowhoiscloud.png?size=64" width="48" alt=""> | [@mangowhoiscloud](https://github.com/mangowhoiscloud) | 차량 앱·웹 화면, 인프라와 배포 |
-| <img src="https://github.com/acrafti2020-lab.png?size=64" width="48" alt=""> | [@acrafti2020-lab](https://github.com/acrafti2020-lab) | 화면 명세, 백엔드 API |
-| <img src="https://github.com/jiminsss02.png?size=64" width="48" alt=""> | [@jiminsss02](https://github.com/jiminsss02) | 기획 |
-| <img src="https://github.com/yoodison.png?size=64" width="48" alt=""> | [@yoodison](https://github.com/yoodison) | 팀원 |
+## Repositories
+
+| 레포 | 내용 |
+|---|---|
+| [gachita](https://github.com/team-pitcrew/gachita) | 가치타 — Pleos 차량 앱, 동승자 웹, API 서버, 인프라, 문서 |
+
+서비스: [gachita.mangowhois.ai](https://gachita.mangowhois.ai)
