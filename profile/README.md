@@ -13,9 +13,9 @@
   </tr>
   <tr>
     <td align="center"><b>류지환</b><br><sub><a href="https://github.com/mangowhoiscloud">@mangowhoiscloud</a></sub><br><sub>차량 앱 · 웹 · 인프라</sub></td>
-    <td align="center"><b>김상현</b><br><sub><a href="https://github.com/acrafti2020-lab">@acrafti2020-lab</a></sub><br><sub>화면 명세 · 백엔드 API</sub></td>
+    <td align="center"><b>김상현</b><br><sub><a href="https://github.com/acrafti2020-lab">@acrafti2020-lab</a></sub><br><sub>오픈소스 모델 API · 음성 재전사(ASR)</sub></td>
     <td align="center"><b>송지민</b><br><sub><a href="https://github.com/jiminsss02">@jiminsss02</a></sub><br><sub>기획</sub></td>
-    <td align="center"><b>유민준</b><br><sub><a href="https://github.com/yoodison">@yoodison</a></sub><br><sub>디자인</sub></td>
+    <td align="center"><b>유민준</b><br><sub><a href="https://github.com/yoodison">@yoodison</a></sub><br><sub>디자인 · 기획</sub></td>
   </tr>
 </table>
 
